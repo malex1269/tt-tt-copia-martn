@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a decoder that uses 4 switch inputs to generate the letters M A R T I N S A L D on a 7 segment display.
 
 ## How to test
 
-Explain how to use your project
+Connect a switch to every input and connect a 7 segment diaplay at the output. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 Segment display, 4 resistors (330), dipswitch. 
